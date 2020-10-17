@@ -51,7 +51,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_head');
 		$this->load->view('meta/contact');
 		$this->load->view('header/header_start');
-		
+		$this->load->view('header/iner-css');
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('contact');

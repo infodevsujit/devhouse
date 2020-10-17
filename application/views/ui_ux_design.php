@@ -15,7 +15,7 @@
         </div>
     </div>
 </div>
-<div class="ui-ux-desing py-120">
+<div class="ui-ux-design py-120">
     <div class="container">
         <div class="row">
             <div class="col-md-6">

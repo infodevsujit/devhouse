@@ -40,13 +40,13 @@
                 <div class="container d-flex flex-fill h-100">
                     <div class="row d-flex flex-fill align-items-center">
                         <div class="col-md-6 d-flex flex-fill flex-column justify-content-start align-items-start order-md-1 order-2">
-                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28">UI / UX desing</h1>
+                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28">UI / UX design</h1>
                             <P class="fz16 color mb-0 mt-18 mb-0 pr-28 pr-sm0">Good design is more than a language which gives a speech to unspoken words. That's what we ensure while delivering every UI/UX design. Our creative designers will provide you with top-notch designs.</P>
                             <a href="<?php echo base_url('ui-ux-design'); ?>" class="primary-btn mt-28 float-left">View more</a>
                         </div>
                         <div class="col-md-6 d-flex flex-fill align-items-center justify-content-center order-md-2 order-1">
                             <figure class="mb-0 ml-auto mt-60 pt-60 pt-sm-28">
-                                <img src="<?php echo base_url(); ?>assets/images/ui-ux/ui-ux.svg" alt="UI / UX desing">
+                                <img src="<?php echo base_url(); ?>assets/images/ui-ux/ui-ux.svg" alt="UI / UX design">
                             </figure>
                         </div>
                     </div>

@@ -1,17 +1,11 @@
-<div class="page-title position-relative py-120">
+<div class="title-contact-page position-relative py-120 ">
     <div class="container">
         <div class="row py-120">
-            <div class="col-md-6">
-                <figure><img src="<?php echo base_url(); ?>assets/images/contact.svg" alt=""></figure>
-            </div>
-            <div class="col-md-6">
-                <h1 class="line fz28 fw-4 color mb-12 position-relative">Get In Touch</h1>
-                <p class="mb-0">Nice To Meet You!</p>
-                <ul class="d-flex flex-column p-0 list-none mt-22">
-                    <li class="mb-12"><a href="" class="color fz28"><i class="far fa-envelope mr-3" aria-hidden="true"></i>info@devhouze.com</a></li>
-                    <li><a href="" class="color  fz28"><i class="fas fa-phone-alt mr-3" aria-hidden="true"></i>+91 9310095233</a></li>
-                </ul>
-            </div>
+        <div class="col-md-12">
+        <h1 class="d-table mx-auto text-center text-white mb-8 fz16 fw-4">CONTACT US</h1>
+        <h2 class="d-table mx-auto text-center text-white mb-0 fz28 fw-6">GET IN TOUCH WITH US</h2>
+        </div>
+            
         </div>
     </div>
 </div>
@@ -27,16 +21,16 @@
                             </p>
                             <form action="" class="mt-28">
                                 <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Name">
+                                    <input type="text" class="form-control" placeholder="Your name...">
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Phone">
+                                    <input type="text" class="form-control" placeholder="Your number">
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Email">
+                                    <input type="text" class="form-control" placeholder="your@email.com">
                                 </div>
                                 <div class="form-group">
-                                    <textarea name="" id="" cols="30" rows="5" class="form-control" placeholder="Query"></textarea>
+                                    <textarea name="" id="" cols="30" rows="5" class="form-control" placeholder="Your message..."></textarea>
                                 </div>
                                 <div class="form-group mt-28">
                                     <button class="primary-btn">SUBMIT</button>

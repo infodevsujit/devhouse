@@ -75,10 +75,10 @@
     <div class="container">
         <div class="row align-items-center">
         <div class="col-md-6">
-                <figure><img src="<?php echo base_url(); ?>assets/images/ios/ui-ux.svg" alt="UX / UI Desing" class="d-table mr-auto"></figure>
+                <figure><img src="<?php echo base_url(); ?>assets/images/ios/ui-ux.svg" alt="UX / UI design" class="d-table mr-auto"></figure>
             </div>
             <div class="col-md-6">
-                <h4 class="line fz28 fw-6 text-uppercase color mb-18 ">UX / UI Desing</h4>
+                <h4 class="line fz28 fw-6 text-uppercase color mb-18 ">UX / UI design</h4>
                 <p class="fz16 color mb-0 mt-18 mb-0">An effective design is vital for sounder business. Following the innovative design process is core for our organization. Our designers are experts in solving complicated business challenges while delivering users simple and memorable experiences. We specialize in cross-channel, user experience design for multi-platform, web-based software applications.</p>
                 <a href="<?php echo base_url('ui-ux-design'); ?>" class="primary-btn mt-28 float-left">View more</a>
             </div>

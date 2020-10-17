@@ -10,7 +10,7 @@
             <div class="col-md-9 px-0">
                 <div class="owl-carousel owl-theme">
                 <div class="item">
-                    <div class="services-box py-60 px-40">
+                    <div class="services-box py-40 px-40">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/images/icons/ui-ux.svg" alt="ui / ux design">
                             </div>
@@ -20,7 +20,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="services-box py-60 px-40">
+                        <div class="services-box py-40 px-40">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/images/icons/web.svg" alt="website development">
                             </div>
@@ -30,7 +30,7 @@
                         </div>
                     </div>
                     <div class="item">
-                    <div class="services-box py-60 px-40">
+                    <div class="services-box py-40 px-40">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/images/icons/ios.svg" alt="ios development">
                             </div>
@@ -41,7 +41,7 @@
                     </div>
                     
                     <div class="item">
-                    <div class="services-box py-60 px-40">
+                    <div class="services-box py-40 px-40">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/images/icons/social.svg" alt="digital marketing">
                             </div>
@@ -51,7 +51,7 @@
                         </div>
                     </div>
                     <div class="item">
-                    <div class="services-box py-60 px-40">
+                    <div class="services-box py-40 px-40">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/images/icons/android.svg" alt="android development">
                             </div>

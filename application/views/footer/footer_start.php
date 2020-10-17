@@ -47,7 +47,7 @@
                     <li><a href="<?php echo base_url('about-us');?>">About us</a></li>
                     <li><a href="https://medium.com/@devhouze" target="_blank" rel="noopener">Blogs</a></li>
                     <li><a href="<?php echo base_url('contact-us');?>">Contact Us</a></li>
-                    <li><a href="<?php echo base_url();?>/sitemap.xml">Sitemap</a></li>
+                    <li><a href="<?php echo base_url();?>sitemap.xml">Sitemap</a></li>
                 </ul>
             </div>
         </div>

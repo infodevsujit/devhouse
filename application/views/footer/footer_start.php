@@ -51,4 +51,17 @@
                 </ul>
             </div>
         </div>
+        <div class="row mt-40">
+            <div class="col-md-6">
+               <p class="mb-0"> © 2020 Devhouze Technologies Private Limited. All rights reserved.</p>
+
+
+            </div>
+            <div class="col-md-6">
+                <ul class="ml-auto d-flex p-0 justify-content-end">
+                    <li><a href="javascript:void(0)">Terms of service</a></li>
+                    <li class="ml-28"><a href="javascript:void(0)">Privacy policy</a></li>
+                </ul>
+            </div>
+        </div>
     </div>

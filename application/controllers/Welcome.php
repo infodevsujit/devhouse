@@ -23,7 +23,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_head');
 		$this->load->view('meta/home');
 		$this->load->view('header/header_start');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('index');
@@ -37,7 +37,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_head');
 		$this->load->view('meta/about');
 		$this->load->view('header/header_start');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('about');
@@ -51,7 +51,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_head');
 		$this->load->view('meta/contact');
 		$this->load->view('header/header_start');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('contact');
@@ -66,7 +66,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('meta/services');
 		$this->load->view('header/header_start');
 		$this->load->view('header/iner-css');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('services');
@@ -82,7 +82,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('meta/mobile_app_development');
 		$this->load->view('header/header_start');
 		$this->load->view('header/iner-css');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('mobile_app_development');
@@ -100,7 +100,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_start');
 		$this->load->view('header/owl');
 		$this->load->view('header/iner-css');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('website_development');
@@ -118,7 +118,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_start');
 		$this->load->view('header/owl');
 		$this->load->view('header/iner-css');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('ui_ux_design');
@@ -135,7 +135,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('meta/digital_marketing');
 		$this->load->view('header/header_start');
 		$this->load->view('header/owl');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('digital_marketing');
@@ -152,7 +152,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_start');
 		$this->load->view('header/owl');
 		$this->load->view('header/iner-css');
-		$this->load->view('header/header_footer');	
+			
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('ios');
@@ -170,7 +170,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_start');
 		$this->load->view('header/iner-css');
 		$this->load->view('header/owl');
-		$this->load->view('header/header_footer');
+		
 		$this->load->view('header/header_end');
 		$this->load->view('header/main_navbar');
 		$this->load->view('android');

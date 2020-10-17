@@ -3,7 +3,7 @@
         <div class="row mt-60 ">
             <div class="col-md-6 ">
                 <div class="mt-120 pt-60">
-                    <h1 class="fz18 fw-4 mb-8 text-white">Android App Development</h1>
+                    <h1 class="fz16 fw-4 mb-8 text-white">Android App Development</h1>
                     <h2 class="fz40 fw-6 text-white mb-8">The Perfect Mobile <span class="d-block"> App for Your Agency</span></h2>
                     <p class="text-white fz16 mr-60">Clean code written by tech whiz developers of our team assures our clients to achieve high performance and pixel-perfect design for an app with a touch of data security in the data-driven world. </p>
                     <a href="<?php echo base_url('contact-us'); ?>" class="primary-btn mt-28 float-left">Get in Touch</a>
@@ -32,7 +32,7 @@
                                 <div class="icon mb-16">
                                     <img src="<?php echo base_url(); ?>assets/images/about/code.svg" alt="Clean code" class="d-table mr-auto ml-auto">
                                 </div>
-                                <div class="fz18 color fw-6 mb-8">Clean code</div>
+                                <div class="fz16 color fw-6 mb-8">Clean code</div>
                                 <p class="fz16 mb-0">We maintain coding standards helps to achieve clean code throughout our app.</p>
                             </div>
                         </div>
@@ -41,7 +41,7 @@
                                 <div class="icon mb-16">
                                     <img src="<?php echo base_url(); ?>assets/images/about/pixcel.svg" alt="PIXEL PERFECT" class="d-table mr-auto ml-auto">
                                 </div>
-                                <div class="fz18 color fw-6 mb-8">PIXEL PERFECT</div>
+                                <div class="fz16 color fw-6 mb-8">PIXEL PERFECT</div>
                                 <p class="fz16 mb-0">Responsive layouts that fit under any screen makes a pixel-perfect UI.</p>
                             </div>
                         </div>
@@ -50,7 +50,7 @@
                                 <div class="icon mb-16">
                                     <img src="<?php echo base_url(); ?>assets/images/about/creative.svg" alt="CREATIVE DESIGN" class="d-table mr-auto ml-auto">
                                 </div>
-                                <div class="fz18 color fw-6 mb-8">CREATIVE DESIGN</div>
+                                <div class="fz16 color fw-6 mb-8">CREATIVE DESIGN</div>
                                 <p class="fz16 mb-0">Extensive knowledge of UI/UX designers helps us to make an innovative design.</p>
                             </div>
                         </div>
@@ -59,7 +59,7 @@
                                 <div class="icon mb-16">
                                     <img src="<?php echo base_url(); ?>assets/images/about/heigh.svg" alt="HIGH PERFOMANCE" class="d-table mr-auto ml-auto">
                                 </div>
-                                <div class="fz18 color fw-6 mb-8">HIGH PERFOMANCE</div>
+                                <div class="fz16 color fw-6 mb-8">HIGH PERFOMANCE</div>
                                 <p class="fz16 mb-0">Algorithms used by our developers helps us to achieve high performance.</p>
                             </div>
                         </div>

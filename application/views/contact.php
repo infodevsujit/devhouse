@@ -23,7 +23,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="color fw-5 fz-27 mb-8">Send Us a Message!</h4>
-                            <p class="text-color fz18 mb-0">Our Team Will Respond Very Quickly
+                            <p class="text-color fz16 mb-0">Our Team Will Respond Very Quickly
                             </p>
                             <form action="" class="mt-28">
                                 <div class="form-group">

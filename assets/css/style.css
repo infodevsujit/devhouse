@@ -1078,3 +1078,11 @@ a.link {
 .carousel-control-next {
     right: 8px !important;
 }
+
+.title-contact-page {
+    background-image: linear-gradient(145deg, #2196f38c, #170000), url(../images/contact-bg.jpg);
+    background-position: 0 0px, 50% 50%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll, fixed;
+}

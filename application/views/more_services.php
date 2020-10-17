@@ -14,7 +14,7 @@
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/images/icons/ui-ux.svg" alt="ui / ux design">
                             </div>
-                            <h3 class="text-center color fz16 fw-6 mb-18">UI / UX Desing</h3>
+                            <h3 class="text-center color fz16 fw-6 mb-18">UI / UX design</h3>
                             <p class="text-center mb-0 fz16 ">An effective design is vital for sounder business. Following the innovative design process is core for our organization. </p>
                             <a href="<?php echo base_url('ui-ux-design'); ?>">View more</a>
                         </div>

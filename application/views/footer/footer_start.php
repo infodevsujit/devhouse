@@ -23,7 +23,7 @@
                 <ul>
                     <li><a href="<?php echo base_url('android-app-development');?>">Android app developemnt</a></li>
                     <li><a href="<?php echo base_url('ios-app-development');?>">IOS app development</a></li>
-                    <li><a href="<?php echo base_url('ui-ux-design');?>">Website desing</a></li>
+                    <li><a href="<?php echo base_url('ui-ux-design');?>">Website design</a></li>
                     <li><a href="<?php echo base_url('website-development');?>">Web development</a></li>
                     <li><a href="<?php echo base_url('services');?>">Smart devices</a></li>
                 </ul>
@@ -47,7 +47,7 @@
                     <li><a href="<?php echo base_url('about-us');?>">About us</a></li>
                     <li><a href="https://medium.com/@devhouze" target="_blank" rel="noopener">Blogs</a></li>
                     <li><a href="<?php echo base_url('contact-us');?>">Contact Us</a></li>
-                    <li><a href="<?php echo base_url();?>/sitemap.xml">Sitemap</a></li>
+                    <li><a href="<?php echo base_url();?>sitemap.xml">Sitemap</a></li>
                 </ul>
             </div>
         </div>
@@ -65,3 +65,4 @@
             </div>
         </div>
     </div>
+    

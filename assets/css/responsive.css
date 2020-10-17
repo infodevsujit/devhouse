@@ -1,0 +1,32 @@
+@media screen and (max-width: 992px) {
+    .container {
+        max-width: 100%!important;
+    }
+    .about .box {
+        position: relative;
+        left: unset !important;
+        top: unset !important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .banner {
+        padding-top: 110px;
+        height: auto !important;
+    }
+    .about .box {
+        flex: 0 0 300px;
+        max-width: 300px;
+        margin: 21px auto;
+        height: 230px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .blog-card figure {
+        max-width: 100%;
+    }
+    .blog-card figure img {
+        width: 100%;
+    }
+}

@@ -301,12 +301,12 @@
                 <div class="row">
                     <div class="col-md-6">
                         <a href="#" target="_blank">
-                            <img src="<?php echo base_url(); ?>assets/images/p1.jpg" alt="stockarea">
+                            
                         </a>
                     </div>
                     <div class="col-md-6 pt-xs-40">
                         <a href="#" target="_blank">
-                            <img src="<?php echo base_url(); ?>assets/images/p2.jpg" alt="stockarea">
+                           
                         </a>
                     </div>
                 </div>

@@ -1,1 +1,0 @@
-<link  href="<?= base_url(); ?>assets/css/header_footer.css" rel="stylesheet">

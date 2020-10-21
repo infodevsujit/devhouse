@@ -61,7 +61,7 @@
                             <a href="<?php echo base_url('digital-marketing'); ?>" class="primary-btn mt-28 float-left">View more</a>
                         </div>
                         <div class="col-md-6 d-flex flex-fill align-items-center justify-content-center order-md-2 order-1">
-                            <figure class="mb-0 m-auto mx-sm0 mt-60 pt-60 pt-sm-28">
+                            <figure class="mb-0 ml-auto mx-sm0 mt-60 pt-60 pt-sm-28">
                                 <img src="<?php echo base_url(); ?>assets/images/website/digital-marketing.jpg" alt="Digital Marketing" width="500px" height="500px">
                             </figure>
                         </div>

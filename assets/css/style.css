@@ -49,10 +49,8 @@
 }
 
 .navbar-brand {
-    color: var(--primary-color)!important;
-    font-size: 36px!important;
-    font-weight: 600;
-    letter-spacing: 2px
+    max-width: 250px;
+    margin: 0;
 }
 
 .navbar-brand span {
@@ -120,6 +118,11 @@ footer {
     background: var(--color);
     color: #fff;
     padding: 60px 0
+}
+
+.address li img {
+    width: 20px;
+    margin-right: 10px;
 }
 
 .title {
@@ -202,7 +205,9 @@ footer .logo a:hover {
 .services .card .backside {
     position: absolute;
     left: 0;
-    top: 0
+    top: 0;
+    bottom: 0;
+    height: 100%;
 }
 
 .services .card .backside ul {

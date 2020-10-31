@@ -1582,6 +1582,9 @@ a:hover {
 }
 
 @media screen and (max-width: 767px) {
+    .primary-btn {
+        padding: 9px 40px;
+    }
     .fz12-sm {
         font-size: calc(var(--v2) * 6);
     }

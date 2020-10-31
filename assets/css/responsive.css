@@ -11,7 +11,8 @@
         top: unset !important;
     }
     .screenshot {
-        height: 422px
+        height: 422px;
+        border: 0;
     }
     #navbarSupportedContent {
         background: #090e47;
@@ -37,9 +38,27 @@
         margin-bottom: 20px;
         margin-top: 13px;
     }
+    footer ul li a {
+        font-size: 14px;
+    }
+    .title {
+        margin-top: 28px;
+    }
 }
 
 @media screen and (max-width: 767px) {
+    .banner .carousel-control-next,
+    .banner .carousel-control-prev {
+        width: 70px;
+        height: 450px;
+    }
+    .cirfle {
+        width: 60px;
+        height: 60px;
+        padding: 15px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
     .banner {
         padding-top: 110px;
         height: auto !important;
@@ -53,6 +72,12 @@
 }
 
 @media screen and (max-width: 576px) {
+    .blogs h1 {
+        font-size: 50px;
+    }
+    .blogs:before {
+        height: 30%;
+    }
     .blog-card figure {
         max-width: 100%;
     }

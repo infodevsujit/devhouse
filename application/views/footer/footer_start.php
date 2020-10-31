@@ -6,9 +6,9 @@
                     <a href="<?php echo base_url(); ?>">DEVHOUZE</a>
                 </div>
                 <ul class="mt-27 address">
-                    <li class="d-flex align-items-center mb-3"><i class="fas fa-map-marker mr-2"></i> Delhi india</li>
-                    <li class="d-flex align-items-center mb-3"><i class="far fa-envelope mr-2" aria-hidden="true"></i>info@devhouze.com</li>
-                    <li class="d-flex align-items-center mb-3"><i class="fas fa-phone-alt mr-2" aria-hidden="true"></i>9310095233</li>
+                    <li class="d-flex align-items-center mb-3"><img src="<?php echo base_url();?>assets/images/icons/map.png" alt="facebook">Delhi india</li>
+                    <li class="d-flex align-items-center mb-3"><img src="<?php echo base_url();?>assets/images/icons/email.png" alt="facebook">info@devhouze.com</li>
+                    <li class="d-flex align-items-center mb-3"><img src="<?php echo base_url();?>assets/images/icons/call.png" alt="facebook">9310095233</li>
                 </ul>
                 <ul class="social d-flex flex-row align-itmes-center">
                 <li><a href="https://www.facebook.com/Devhouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/facebook_fo.svg" alt="facebook"></a></li>
@@ -51,14 +51,14 @@
                 </ul>
             </div>
         </div>
-        <div class="row mt-40">
+        <div class="row mt-40 mt-sm-28">
             <div class="col-md-6">
-               <p class="mb-0"> © 2020 Devhouze Technologies Private Limited. All rights reserved.</p>
+               <p class="mb-0 fz12-sm"> © 2020 Devhouze Technologies Private Limited. All rights reserved.</p>
 
 
             </div>
             <div class="col-md-6">
-                <ul class="ml-auto d-flex p-0 justify-content-end">
+                <ul class="d-flex justify-content-md-end mt-sm-28">
                     <li><a href="javascript:void(0)">Terms of service</a></li>
                     <li class="ml-28"><a href="javascript:void(0)">Privacy policy</a></li>
                 </ul>

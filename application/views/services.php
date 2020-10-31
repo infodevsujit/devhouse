@@ -62,7 +62,7 @@
     <div class="container">
         <div class="row align-items-center">
         <div class="col-md-6">
-                <figure class="mb-sm-40"><img src="<?php echo base_url(); ?>assets/images/ui-ux.png" alt="UX / UI design" class="d-table mr-auto"></figure>
+                <figure class="mb-sm-40"><img src="<?php echo base_url(); ?>assets/images/services/ui-ux.png" alt="UX / UI design" class="d-table mr-auto"></figure>
             </div>
             <div class="col-md-6">
                 <h4 class="line fz28 fz22-sm fw-6 text-uppercase color mb-18 ">UX / UI design</h4>

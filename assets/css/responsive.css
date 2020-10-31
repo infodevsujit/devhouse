@@ -47,6 +47,33 @@
 }
 
 @media screen and (max-width: 767px) {
+    .ios-services .abs-img {
+        position: relative;
+        left: unset;
+        right: unset;
+        display: block;
+        overflow: visible;
+        width: auto;
+        max-width: 100%;
+        margin-bottom: 0;
+        padding-right: 0;
+        padding-left: 0;
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 auto;
+        -ms-flex: 0 auto;
+        flex: 0 auto;
+    }
+    .more-services {
+        position: relative;
+        background: #f2f3f5;
+    }
+    .more-srvices-box {
+        padding: 60px 30px;
+    }
+    .feature-content .row .col-md-6:nth-child(3),
+    .feature-content .row .col-md-6:nth-child(4) {
+        border-bottom: 1px solid hsla(0, 0%, 82.7%, 0.79);
+    }
     .banner .carousel-control-next,
     .banner .carousel-control-prev {
         width: 70px;

@@ -1948,6 +1948,9 @@ a:hover {
     .pl-sm-80 {
         padding-left: calc(var(--v2) * 40);
     }
+    .pt-sm0 {
+        padding-top: 0;
+    }
     .pt-sm-8 {
         padding-top: calc(var(--v2) * 4);
     }

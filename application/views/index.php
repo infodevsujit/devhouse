@@ -5,12 +5,12 @@
                 <div class="container d-flex flex-fill h-100">
                     <div class="row d-flex flex-fill align-items-center">
                         <div class="col-md-6 d-flex flex-fill flex-column justify-content-start align-items-start order-md-1 order-2">
-                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28">Mobile app development</h1>
+                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28 fz22-sm">Mobile app development</h1>
                             <P class="fz16 color mb-0 mt-18 mb-0 pr-28 pr-sm0">Up-to-date technical knowledge of our professionals helps us to provide you with enriched user-friendly UX and usability for multi mobile platforms.</P>
                             <a href="<?php echo base_url('mobile-app-development'); ?>" class="primary-btn mt-28 float-left">View more </a>
                         </div>
                         <div class="col-md-6 d-flex flex-fill align-items-center justify-content-center order-md-2 order-1">
-                            <figure class="mb-0 ml-auto mt-60 pt-60 pt-sm-28">
+                            <figure class="mb-0 ml-auto mt-60 mt-sm0 pt-60 pt-sm0">
                                 <img src="<?php echo base_url(); ?>assets/images/ios.png" alt="mobile app development" >
                             </figure>
                         </div>
@@ -21,11 +21,11 @@
                 <div class="container d-flex flex-fill h-100">
                     <div class="row d-flex flex-fill align-items-center">
                         <div class="col-md-6 d-flex flex-fill flex-column justify-content-start align-items-start order-md-1 order-2">
-                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28">Web development</h1>
+                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28 fz22-sm">Web development</h1>
                             <P class="fz16 color mb-0 mt-18 mb-0 pr-28 pr-sm0">We assure you of giving identity to your dreams which will help you maintain communication between you and your clients and have an online presence which will strengthen your brand.</P>
                             <a href="<?php echo base_url('website-development'); ?>" class="primary-btn mt-28 float-left">View more</a>
                         </div>
-                        <div class="col-md-6 d-flex flex-fill align-items-center justify-content-center order-md-2 order-1 pt-sm-28 mt-sm-60">
+                        <div class="col-md-6 d-flex flex-fill align-items-center justify-content-center order-md-2 order-1 pt-sm0 mt-sm0">
                             <div class="card rounded-lg bg-black mb-6 mb-md-0 img-skewed-item screenshot w-100 bg-color" data-v-b729193c="">
                                 <div class="card-header border-white-10" data-v-b729193c="" style="background-color: #000; border-color:#000">
                                     <div class="d-flex" data-v-b729193c=""><span class="bg-danger rounded-circle" style="width: 10px; height: 10px;" data-v-b729193c=""></span> <span class="bg-warning rounded-circle ml-1" style="width: 10px; height: 10px;" data-v-b729193c=""></span> <span class="bg-success rounded-circle ml-1" style="width: 10px; height: 10px;" data-v-b729193c=""></span></div>
@@ -40,13 +40,13 @@
                 <div class="container d-flex flex-fill h-100">
                     <div class="row d-flex flex-fill align-items-center">
                         <div class="col-md-6 d-flex flex-fill flex-column justify-content-start align-items-start order-md-1 order-2">
-                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28">UI / UX design</h1>
+                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28 fz22-sm">UI / UX design</h1>
                             <P class="fz16 color mb-0 mt-18 mb-0 pr-28 pr-sm0">Good design is more than a language which gives a speech to unspoken words. That's what we ensure while delivering every UI/UX design. Our creative designers will provide you with top-notch designs.</P>
                             <a href="<?php echo base_url('ui-ux-design'); ?>" class="primary-btn mt-28 float-left">View more</a>
                         </div>
                         <div class="col-md-6 d-flex flex-fill align-items-center justify-content-center order-md-2 order-1">
-                            <figure class="mb-0 ml-auto mt-60 pt-60 pt-sm-28">
-                                <img src="<?php echo base_url(); ?>assets/images/ui-ux/ui-ux.svg" alt="UI / UX design">
+                            <figure class="mb-0 ml-auto mt-60 mt-sm0 pt-60 pt-sm0">
+                                <img src="<?php echo base_url(); ?>assets/images/ui-ux.png" alt="UI / UX design">
                             </figure>
                         </div>
                     </div>
@@ -56,13 +56,13 @@
                 <div class="container d-flex flex-fill h-100">
                     <div class="row d-flex flex-fill align-items-center">
                         <div class="col-md-6 d-flex flex-fill flex-column justify-content-start align-items-start order-md-1 order-2">
-                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28">Digital Marketing</h1>
+                            <h1 class="text-uppercase fz28 fw-7 color mb-0 mt-60 mt-sm-28 fz22-sm">Digital Marketing</h1>
                             <P class="fz16 color mb-0 mt-18 mb-0 pr-28 pr-sm0">If your business is not searchable today, it is hiding somewhere under a rock. Healthy digital marketing practice is vital to making your business visible to a prospective lead, consumer or seeker. A comprehensive approach today requires effective UI/UX, content development and backlink strategy.</P>
                             <a href="<?php echo base_url('digital-marketing'); ?>" class="primary-btn mt-28 float-left">View more</a>
                         </div>
                         <div class="col-md-6 d-flex flex-fill align-items-center justify-content-center order-md-2 order-1">
-                            <figure class="mb-0 ml-auto mx-sm0 mt-60 pt-60 pt-sm-28">
-                                <img src="<?php echo base_url(); ?>assets/images/website/digital-marketing.jpg" alt="Digital Marketing" width="500px" height="500px">
+                            <figure class="mb-0 ml-auto mx-sm0 mt-60 mt-sm0 pt-60 pt-sm0">
+                                <img src="<?php echo base_url(); ?>assets/images/digital-marketing.jpg" alt="Digital Marketing" width="500px" height="500px">
                             </figure>
                         </div>
                     </div>

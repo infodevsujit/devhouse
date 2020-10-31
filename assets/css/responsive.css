@@ -47,6 +47,35 @@
 }
 
 @media screen and (max-width: 767px) {
+    .img-box {
+        margin-right: auto;
+        margin-top: 40px;
+        width: 100%;
+    }
+    .img-box {
+        margin-top: 0;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .text {
+        width: 100%;
+        padding: 24px 0;
+        margin: 0;
+        bottom: 0;
+    }
+    .smo .text {
+        width: 100%;
+        margin: 0;
+        padding: 24px 0;
+        bottom: 0
+    }
+    .title-contact-page {
+        background-position: 0 0px, 0% 50%;
+    }
+    .set-transition {
+        transform: unset;
+        padding: 40px 0;
+    }
     .ios-services .abs-img {
         position: relative;
         left: unset;

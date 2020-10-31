@@ -84,7 +84,7 @@
         </div>
     </div>
 </div>
-<div class="full-stak-development py-120 py-sm-60">
+<div class="full-stak-development pt-120 pt-sm-60">
     <div class="container">
         <div class="row">
             <div class="col-md-6">

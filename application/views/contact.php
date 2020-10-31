@@ -3,17 +3,17 @@
         <div class="row py-120">
         <div class="col-md-12">
         <h1 class="d-table mx-auto text-center text-white mb-8 fz16 fw-4">CONTACT US</h1>
-        <h2 class="d-table mx-auto text-center text-white mb-0 fz28 fw-6">GET IN TOUCH WITH US</h2>
+        <h2 class="d-table mx-auto text-center text-white mb-0 fz28 fz22-sm fw-6">GET IN TOUCH WITH US</h2>
         </div>
             
         </div>
     </div>
 </div>
-<div class="contact-form-area pb-120">
+<div class="contact-form-area pb-120 pb-sm-60">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="card py-120 px-50 box-shadow border-0">
+                <div class="card py-120 py-sm-60 px-50 px-sm-28 box-shadow border-0">
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="color fw-5 fz-27 mb-8">Send Us a Message!</h4>

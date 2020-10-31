@@ -1606,6 +1606,9 @@ a:hover {
     .fz26-sm {
         font-size: calc(var(--v2) * 13);
     }
+    .fz28-sm {
+        font-size: calc(var(--v2) * 14);
+    }
     .mt-sm0 {
         margin-top: 0;
     }
@@ -1650,6 +1653,9 @@ a:hover {
     }
     .mt-sm-60 {
         margin-top: calc(var(--v2) * 30);
+    }
+    .mr-sm0 {
+        margin-right: 0;
     }
     .mr-sm-8 {
         margin-right: calc(var(--v2) * 4);

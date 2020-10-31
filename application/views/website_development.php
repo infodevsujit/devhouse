@@ -1,6 +1,6 @@
 <div class="title-page position-relative pt-120 pb-120">
     <div class="container">
-        <div class="row mt-120 align-items-center">
+        <div class="row pt-60 mb-60 align-items-center">
             <div class="col-md-6 ">
                 <div class="mt-60">
                     <h1 class="fz16 fw-4 mb-0 text-white">Website Development</h1>

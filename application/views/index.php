@@ -305,7 +305,7 @@
         <div class="row">
             <div class="col-md-6">
                 <h2 class="line fz28 fz22-sm color fw-6 mb-28">Welcome to Devehouze Blogs</h2>
-                <p class="fz16 fz14-sm mr-60 mr-sm0 text-colo ">Explore the latest trends and find our updates on all you need to know about what is happening in the world of web and technology.</p>
+                <p class="fz16 fz14-sm mr-60 mr-sm0">Explore the latest trends and find our updates on all you need to know about what is happening in the world of web and technology.</p>
                 <div class="blog-card d-flex mt-40 mb-28 flex-sm-row flex-column">
                     <figure><img src="<?php echo base_url(); ?>assets/images/blog1.jpg" width="250px" height="250px" alt="What is challanges in digital marketing?"></figure>
                     <div class="blog-desc ml-18 ml-xs0 mt-xs-18">

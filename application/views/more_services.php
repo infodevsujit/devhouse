@@ -1,13 +1,13 @@
-<div class="more-services pt-60 pb-120">
+<div class="more-services pt-60 pt-sm0 pb-120 pb-sm0">
     <div class="container">
-        <div class="row mt-120">
+        <div class="row mt-120 mt-sm0">
             <div class="col-md-3 px-0 d-flex flex-fill">
                 <div class="more-srvices-box positon-relative d-flex justify-content-center flex-column flex-fill align-items-start">
                     <div class="fz28 text-white fw-6 mb-18">Best Of <div class="d-block">Our Features</div></div>
                     <a href="<?php echo base_url('services'); ?>" class="fz16">See All Services</a>
                 </div>
             </div>
-            <div class="col-md-9 px-0">
+            <div class="col-md-9 px-0 pt-sm-60">
                 <div class="owl-carousel owl-theme">
                 <div class="item">
                     <div class="services-box py-40 px-40">

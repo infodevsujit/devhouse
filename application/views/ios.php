@@ -1,30 +1,30 @@
 <div class="title-page position-relative pt-120">
     <div class="container">
-        <div class="row mt-60 ">
-            <div class="col-md-6 ">
-                <div class="mt-120 pt-60">
+        <div class="row mt-60 mt-sm0">
+            <div class="col-md-6">
+                <div class="mt-120 mt-sm0 pt-60 pt-sm-28">
                     <h1 class="fz16 fw-4 mb-8 text-white">IOS App Development</h1>
-                    <h2 class="fz40 fw-6 text-white mb-8">The Perfect Mobile <span class="d-block"> App for Your Agency</span></h2>
-                    <p class="text-white fz16 mr-60">Clean code written by tech whiz developers of our team assures our clients to achieve high performance and pixel-perfect design for an app with a touch of data security in the data-driven world. </p>
+                    <h2 class="fz40 fz22-sm fw-6 text-white mb-8">The Perfect Mobile <span class="d-block"> App for Your Agency</span></h2>
+                    <p class="text-white fz16 fz14-sm mr-60 mr-sm0">Clean code written by tech whiz developers of our team assures our clients to achieve high performance and pixel-perfect design for an app with a touch of data security in the data-driven world. </p>
                     <a href="<?php echo base_url('contact-us'); ?>" class="primary-btn mt-28 float-left">Get in Touch</a>
                 </div>
             </div>
             <div class="col-md-6">
-                <figure><img src="<?php echo base_url(); ?>assets/images/iphone-app/mobile-hand.png" alt="IOS App Development" class="d-table ml-auto"></figure>
+                <figure class="mt-sm-40 mb-0"><img src="<?php echo base_url(); ?>assets/images/iphone-app/mobile-hand.png" alt="IOS App Development" class="d-table ml-auto"></figure>
             </div>
         </div>
     </div>
 </div>
-<div class="app-features py-120">
+<div class="app-features py-120 py-sm-60">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <h3 class="text-center color fz28 fw-6 mb-8">App Features</h3>
                 <p class=" mx-auto text-center fz16 d-none">we ame to deliver <span class="d-block"> adipisicing elit.</span></p>
             </div>
         </div>
         <div class="row mt-60">
-            <div class="col-md-6">
+            <div class="col-md-6 order-md-1 order-2">
                 <div class="feature-content">
                     <div class="row">
                         <div class="col-md-6">
@@ -66,7 +66,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 order-md-2 order-1">
                 <figure class="ml-auto mr-auto">
                     <img src="<?php echo base_url(); ?>assets/images/iphone-app/mobile-developemnt.png" alt="IOS App features" class="d-table mr-auto">
                 </figure>
@@ -74,14 +74,14 @@
         </div>
     </div>
 </div>
-<div class="ios-services py-120 positon-relative">
+<div class="ios-services py-120 py-sm-60 positon-relative">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
             <figure><img src="<?php echo base_url(); ?>assets/images/iphone-app/tablet.png" alt="IOS App Development Services" class="abs-img"></figure>
             </div>
             <div class="col-md-6">
-                <h3 class="fz28 color fw-5 mb-28">IOS App Development Services</h3>
+                <h3 class="fz28 fz22-sm color fw-5 mb-28">IOS App Development Services</h3>
                 <div class="row mt-40">
         <div class="col-md-6">
             <div class="card px-18 py-18 border-4">

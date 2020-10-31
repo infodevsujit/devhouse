@@ -2008,6 +2008,9 @@ a:hover {
     .pb-sm-120 {
         padding-bottom: calc(var(--v2) * 60);
     }
+    .pb-sm0 {
+        padding-bottom: 0;
+    }
     .pr-sm0 {
         padding-right: 0;
     }

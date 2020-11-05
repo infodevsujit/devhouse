@@ -81,6 +81,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('header/header_head');
 		$this->load->view('meta/mobile_app_development');
 		$this->load->view('header/header_start');
+		$this->load->view('header/owl');
 		$this->load->view('header/iner-css');
 		
 		$this->load->view('header/header_end');
@@ -91,6 +92,7 @@ class Welcome extends CI_Controller {
 		$this->load->view('footer/footer_end');
 		$this->load->view('footer/common_footer');
 		$this->load->view('footer/owl-script');	
+		
 		
 	}
 	public function website_development()

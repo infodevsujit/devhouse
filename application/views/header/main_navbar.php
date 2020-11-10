@@ -6,7 +6,7 @@
             <div class="col-md-6">
                 <ul class="social d-flex flex-row align-itmes-center">
                     <li><a href="https://www.facebook.com/Devhouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/facebook.svg" alt="devhouze facebook"></a></li>
-                    <li><a href="https://twitter.com/DevHouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/twitter.svg" alt="Devhouze twitter"></a></li>
+                    <li><a href="https://twitter.com/infodevhouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/twitter.svg" alt="Devhouze twitter"></a></li>
                     <li><a href="https://www.linkedin.com/company/devhouze/" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/linkedin.svg" alt="linkedin"></a></li>
                     <li><a href="https://www.instagram.com/devhouze/" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/instagram.svg" alt="instagram"></a></li>
                     <li><a href="https://medium.com/@devhouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/medium.svg" alt="medium"></a></li>

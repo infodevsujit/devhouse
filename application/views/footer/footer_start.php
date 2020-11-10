@@ -12,7 +12,7 @@
                 </ul>
                 <ul class="social d-flex flex-row align-itmes-center">
                 <li><a href="https://www.facebook.com/Devhouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/facebook_fo.svg" alt="facebook"></a></li>
-                    <li><a href="https://twitter.com/DevHouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/twitter_fo.svg" alt="twitter"></a></li>
+                    <li><a href="https://twitter.com/infodevhouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/twitter_fo.svg" alt="twitter"></a></li>
                     <li><a href="https://www.linkedin.com/company/devhouze/" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/linkedin_fo.svg" alt="linkdin"></a></li>
                     <li><a href="https://www.instagram.com/devhouze/" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/instagram_fo.svg" alt="instagram"></a></li>
                     <li><a href="https://medium.com/@devhouze" target="_blank" rel="noopener"><img src="<?php echo base_url();?>assets/images/icons/medium_fo.svg" alt="medium"></a></li>
